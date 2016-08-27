@@ -1,0 +1,14 @@
+-> Allow users to subscribe to tv series
+-> Notify users when there's a new episode for their subscribed tv series
+-> Allow users to enable automatic download for subscribed tv series
+-> Allow users to be able to set download location for different tv series
+-> Allow users to search for tv series
+-> Allow users to pick tv series from a list of supported shows
+-> Keep record of downloads including the download size, start time, end time and duration
+-> Allow users to view details about tv show before subscribing to it
+-> Allow users to be able to download previous episodes of tv shows
+-> Categorize shows according to genre eg. Anime,Action,Drama,Love
+-> Notify user when download is done
+-> Allow users to unsubscribe from tv shows
+-> Allow users to pause and resume download
+-> Notify users when download is in progress and also display download progress
